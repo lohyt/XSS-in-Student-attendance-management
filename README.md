@@ -22,4 +22,6 @@ Click on "Course" in the left column
 Enter the payload "<img(space)src=1(space)href=1(space)onerror="javascript:alert(1)">" in the "Course" field (PS: Replace (space) with regular space)
 Click on "Save"
 XSS will be triggered and pop up appears.
+
+
 [Discoverer] M Lohith
